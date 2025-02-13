@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LDc58A6t7PIvstNRV5qn0yNLbPuhfjC8SbBUAZ8GIUo/rs:fit:640:640:1/g:ce/aHR0cDovL3d3dy5h/bHBoYXByb2dyYW1t/ZXIuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDQvODMw/Ni1wcm9ncmFtbWlu/Zy1hbmltYXRpb24u/Z2lm.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefsabir101&label=Profile%20views&color=0e75b6&style=flat" alt="youssefsabir101" /> </p>
 
-- 🔭 I’m currently working on **.Net & SqlServer**
+- 🔭 I’m currently working on ** .Net & SqlServer**
 
-- 🌱 I’m currently learning **.Net (freemwork-core)**
+- 🌱 I’m currently learning ** .Net (framework - core)**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/youssefsabir101](https://github.com/youssefsabir101)
