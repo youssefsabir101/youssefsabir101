@@ -4,18 +4,18 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LDc58A6t7PIvstNRV5qn0yNLbPuhfjC8SbBUAZ8GIUo/rs:fit:640:640:1/g:ce/aHR0cDovL3d3dy5h/bHBoYXByb2dyYW1t/ZXIuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDQvODMw/Ni1wcm9ncmFtbWlu/Zy1hbmltYXRpb24u/Z2lm.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefsabir101&label=Profile%20views&color=0e75b6&style=flat" alt="youssefsabir101" /> </p>
 
-- 🔭 I’m currently working on ** .Net & SqlServer**
+- 🔭 I’m currently working on " .Net & SqlServer "
 
-- 🌱 I’m currently learning ** .Net (framework - core)**
+- 🌱 I’m currently learning " .Net (framework - core) "
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/youssefsabir101](https://github.com/youssefsabir101)
 
-- 💬 Ask me about **js**
+- 💬 Ask me about " js "
 
-- 📫 How to reach me **sabircode.me@gmail.com**
+- 📫 How to reach me " sabircode.me@gmail.com "
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact " I think I am funny "
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -64,7 +64,7 @@
   </a> 
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="laravel" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -95,7 +95,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
